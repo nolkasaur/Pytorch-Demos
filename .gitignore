@@ -2,3 +2,5 @@ logistic-regression/data
 feed-forward-neural-network/data
 convolutional-neural-network/data
 convolutional-neural-network/cifar10.tgz
+advanced-cnn-techniques/data
+advanced-cnn-techniques/cifar10.tgz

@@ -14,7 +14,7 @@ if __name__ == "__main__":
 
     try:
 
-        # Get epochs from function call argument
+        # Get epochs and print tests from function call argument
         epochs = int(sys.argv[1])
         print_tests = int(sys.argv[2])
 
