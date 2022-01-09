@@ -1,2 +1,4 @@
 logistic-regression/data
 feed-forward-neural-network/data
+convolutional-neural-network/data
+convolutional-neural-network/cifar10.tgz
