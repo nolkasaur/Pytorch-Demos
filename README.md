@@ -25,6 +25,6 @@ Residual Network over 10 epochs on the CIFAR-10 dataset:
 
 Generative Adversial Network over 10 epochs on an anime face dataset:
 
-![Generative Adversial Network results](img/results_4.png)
+![Generative Adversarial Network results](img/results_4.png)
 
-![Generative Adversial Network results gif](img/gans_training.gif)
+![Generative Adversarial Network results gif](img/gans_training.gif)
