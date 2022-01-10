@@ -1,4 +1,4 @@
-# Pytorch-Projects
+# Pytorch-Demos
 
 Learning Machine Learning with Pytorch.
 
