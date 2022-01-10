@@ -28,3 +28,5 @@ Generative Adversarial Network over 10 epochs on an anime face dataset:
 ![Generative Adversarial Network results](img/results_4.png)
 
 ![Generative Adversarial Network results gif](img/gans_training.gif)
+
+ToDo: add metrics.
