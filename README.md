@@ -7,4 +7,4 @@ Tensors, gradients, Numpy, linear regression, logistic regression, gradient desc
 , data normalization, data augmentation, residual connections, batch normalization, learning rate scheduling, weight decay, gradient clipping
 , adam optimizer, generative adversarial networks.
 
-Kudos to Aakash N S and Jovian.
+Kudos to Aakash N S and Jovian, as well as @bchao1 for the anime face dataset.
